@@ -1,8 +1,7 @@
 # Hello-World
 
 ## Authors
-- [Daniel Muchiri](https://github.com/daydroidmuchiri)
-- Add your clickable username here. It should point to your GitHub account. 
+- [Nyakinyua](https://github.com/Nyakinyua)
 
 ## Project setup instructions
 To start using this project use the following commands:
@@ -10,6 +9,12 @@ To start using this project use the following commands:
 - `git clone https://github.com/moringaschool/hello-world.git`
 - `cd hello-world`
 - `atom .`
+## setup
+| Name        | age           | Favourite Color |
+| ------------- |:-------------:| -----:|
+| Joy      | 22 | blue |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 ## License info
 MIT License
